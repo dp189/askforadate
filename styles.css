@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-  
+    font-family: "Poppins", serif;
     background: #F8C8DC;
   }
   
@@ -24,7 +24,7 @@ body {
   
   
   .header_text {
-    font-family: "Nunito";
+    font-family: "Poppins", serif;
     font-size: 50px;
     font-weight: bold;
   
@@ -35,7 +35,7 @@ body {
   }
   
   .text {
-    font-family: "Nunito";
+    
     font-size: 25px;
     font-weight: bold;
     color: white;
